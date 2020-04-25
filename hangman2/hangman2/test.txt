@@ -1,0 +1,10 @@
+carrot	vegetables
+apple	fruits
+oak	trees
+liver	human body
+herring	fish
+banana	fruits
+wikipedia	website
+pineapple	fruits
+penicillin	medicine
+what doesn't kill you makes you stronger	proverb

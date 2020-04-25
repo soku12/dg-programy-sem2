@@ -1,0 +1,4 @@
+potato	vegetables
+bread	food
+vacuum cleaner	at home
+carrot	vagetables
